@@ -4,12 +4,8 @@
 
 .center{
   text-align: center;
+  display: block;
+  margin: auto
 }
 
-.img-center{
-  align-items: center;
-}
 
-.black{
-  color: black;
-}
